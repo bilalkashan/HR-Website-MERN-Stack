@@ -52,7 +52,7 @@ const Footer = () => {
             <h3 className="text-lg font-semibold mb-4 text-accent">Contact Us</h3>
             <ul className="space-y-3 text-gray-300">
               <li className="flex items-start">
-                <MapPin size={18} className="mr-2 mt-1 text-accent" />git add .
+                <MapPin size={18} className="mr-2 mt-1 text-accent" />
                 <span>North Western Industrial Zone Port Qasim Bin Qasim Town, Karachi</span>
               </li>
               <li className="flex items-center">
